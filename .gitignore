@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+*.o
+taffy_stretch
+# Test material
+*.f32
+*.raw
+*.wav
+# System / IDE
+.DS_Store
+.idea/
